@@ -9,3 +9,6 @@ insert into brand values ('Tesla', 2003, null);
 insert into brand values ('Lincoln', 1917, null);
 insert into brand values ('Cadillac', 1902, null);
 insert into brand values ('Buick', 1902, null);
+insert into brand values ('Dodge', 1914, null);
+insert into brand values ('Lucid', 2007, null);
+insert into brand values ('Rivian', 2009, null);
